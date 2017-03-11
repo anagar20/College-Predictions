@@ -1,5 +1,5 @@
 #Data  
-  library(ISLR)
+    library(ISLR)
 we do not need to load the College data set as it is already present in your R software.
 
     head(College, 2)
